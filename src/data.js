@@ -1,4 +1,4 @@
-export default [
+const dummydata = [
   {
     id: 1,
     name: "Ahnaf Abid",
@@ -35,3 +35,4 @@ export default [
       "https://res.cloudinary.com/dx0u0oinp/image/upload/v1636077719/siyam_o6kqb7.jpg",
   },
 ];
+export default dummydata;
