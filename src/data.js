@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     name: "Ahnaf Abid",
-    age: 9,
+    age: 5,
     image:
       "https://res.cloudinary.com/dx0u0oinp/image/upload/v1636046165/abid_fhd9h8.jpg",
   },
